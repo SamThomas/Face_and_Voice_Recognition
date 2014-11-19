@@ -8,5 +8,7 @@ The hardware devices used for this project were the Raspberry Pi, the camera mod
 
 ![] (http://essels.be/site/wp-content/uploads/2012/07/opencv-python.png) ![] (https://www.gnu.org/software/octave/images//logo.png)
 
+![] (http://upload.wikimedia.org/wikipedia/commons/6/6f/Raspberry_Pi_B%2B_top.jpg)
+
 
 
